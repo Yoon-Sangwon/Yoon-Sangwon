@@ -1,6 +1,7 @@
-### 안녕
+### My Goal is *Data Analyst*
 
-:star2:
+:star2: I'm 🇰🇷 Student in *KyungHee University*🏦
+:star2: I'm Studing
 :kr:
 :x:
 :chart_with_upwards_trend:
