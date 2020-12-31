@@ -1,10 +1,11 @@
-### My Goal is *Data Analyst*
+## My Goal is *Data Analyst*
 
-:star2: I'm 🇰🇷 Student in *KyungHee University*🏦
-:star2: I'm Studing
-:kr:
-:x:
-:chart_with_upwards_trend:
+:star2: I was Korean Student in *KyungHee University* 🏛 , but now white soo 🤣🤣
+:star2: I get a Bachelor of *Economics* :chart_with_upwards_trend:
+
+:star2: I'm studing a Data Analisis with K-Digital
+
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yoon-sangwon&theme=dark&show_icons=true) 
