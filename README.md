@@ -25,7 +25,7 @@
 | [인터페이스 개발 프로젝트](https://github.com/Yoon-Sangwon/Webproject) | 21.02.01<br>~02.19    | 오늘의 코로나 안심 지역<br>안심식당·병원, 선별진료소, 게시판<br>Django기술 활용 |
 | [R기반의 빅데이터 활용 미니프로젝트](https://github.com/Yoon-Sangwon/K-DIGIT_R_Project) | 21.03.17<br>~03.23    | 취업준비생을 위한 구직안내서<br>채용시장, 기업현황 뉴스 WordC.<br>매출액별 합격스펙 분석(크루스칼)<br>합격자소서 평점별 WordCloud |
 | [PYTHON기반의 빅데이터 분석 프로젝트](https://github.com/Yoon-Sangwon/Bucheon)  **<✨우수상 수상✨>** | 21.04.16<br>~04.27    | 부천시 공공자전거 대여소 위치 제안<br>공공시설 기상 등 데이터 수집<br>위 변수를 활용 월 대여량 예측 모델링<br>후보군을 K-means 클러스터링으로 축소<br>예측 모델로 후보군 수요 예측<br>버스 운영 대수로 교통소외지역 분석 |
-| 빅데이터 · AI · IoT · 클라우드 융합 프로젝트                 | 21.04.28<br>~06.04    | 진행 중                                                      |
+| [빅데이터 · AI · IoT · 클라우드 융합 프로젝트](https://github.com/Yoon-Sangwon/Annyeong) | 21.04.28<br>~06.04    | 감정 치료를 위한 챗봇 기반 스마트 램프<br> **[안녕이]**<br>  |
 
 
 
