@@ -27,6 +27,7 @@
 | [빅데이터 · AI · IoT · 클라우드 융합 프로젝트](https://github.com/Yoon-Sangwon/Annyeong) | 21.04.28<br>~06.04    | 감정 치료를 위한 챗봇 기반 스마트 램프<br> **[안녕이]**<br>  |
 | 빅데이터분석기사 [한국데이터산업진흥원]                      | 21.07.16              | BAE-002000266                                                |
 | [코딩 테스트 준비](https://github.com/Yoon-Sangwon/CodingTest) | 21.08.12 ~            |                                                              |
+| SQL 개발자(SQLD) [한국데이터산업진흥원]                      | 21.10.01              | SQLD-042002346                                               |
 
 
 
