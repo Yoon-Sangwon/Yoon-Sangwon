@@ -62,7 +62,7 @@
 | 활동명                                                       | 기간       | 활동내용 |
 | ------------------------------------------------------------ | ---------- | -------- |
 | [알고리즘 코딩 테스트 준비](https://github.com/Yoon-Sangwon/CodingTest) | 21.08.12 ~ |          |
-| Pytorch 머신러닝 & 딥러닝 (예정)                             |            |          |
+| [Pytorch 머신러닝 & 딥러닝](https://github.com/Yoon-Sangwon/Pytorch)                             |            |          |
 | Hadoop EcoSystem (예정)                                      |            |          |
 
 
